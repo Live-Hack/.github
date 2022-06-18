@@ -1,6 +1,6 @@
 <img src="slider01.gif">
 
-- For bugs repport [please click here 🤕](https://github.com/Live-Hack/Bugs/issues)
+- For bugs repport [please click here 🤕](https://github.com/Live-Hack/Support/issues)
 - All the community assets are hosted [here](https://github.com/Live-Hack/assets)
 
 ## Team
